@@ -56,5 +56,8 @@ Highlights top and bottom products based on sales, profit, and quantity for bett
 - Sales trends fluctuate over time with noticeable peaks  
 - Product performance varies across different metrics  
 
+## GitHub Repository
+[View Project on GitHub] (https://github.com/ManpreetKaur96/sales_dashboard)
+
 ## Author
 Manpreet Kaur
