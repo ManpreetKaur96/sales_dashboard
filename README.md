@@ -1,60 +1,60 @@
-# sales_dashboard
-A dynamic Sales Dashboard built in Power BI to visualize key business metrics like sales, profit, and quantity. Helps identify trends and evaluate product performance across different categories.
-
 # Sales Dashboard (Power BI)
 
 ## Project Overview
-This project is an interactive **Sales Dashboard** built using Power BI to analyze sales, profit, and product performance.  
-It helps identify top-performing and low-performing products based on key business metrics.
+Power BI dashboard designed to analyze sales performance and product insights.  
+Highlights top and bottom products based on sales, profit, and quantity for better decision-making.
 
 ## Dataset
 - **File Name:** `Store Data.xlsx`
-- Contains:
-  - Product details
+- Includes:
   - Sales and profit data
-  - Quantity sold
-  - Customer and regional data
+  - Product and customer details
+  - Quantity sold and pricing
+  - Promotion and discount information
 
 ## Features
-- Top 5 & Bottom 5 products by **Sales**
-- Top 5 & Bottom 5 products by **Quantity Sold**
-- Top 5 & Bottom 5 products by **Profit**
-- Comparative analysis for better decision-making
-- Clean and interactive visual layout
+- Sales trend analysis over time
+- Sales distribution by cities
+- Profit vs Net Sales comparison
+- Number of orders KPI tracking
+- Discount analysis by promotion category
+- Top & Bottom products (Sales, Profit, Quantity)
+- Dynamic filtering (Date, Product, Customer, Promotion)
 
 ## Tools Used
 - Power BI
 - Microsoft Excel
 
 ## Files Included
-- `sales_dashboard.pbix` → Main dashboard file  
-- `Store Data.xlsx` → Dataset used  
-- `sales_dashboard1.png` → Dashboard screenshot 1  
-- `sales_dashboard2.png` → Dashboard screenshot 2  
-- `sales_dashboard3.png` → Dashboard screenshot 3  
+- `sales_dashboard.pbix` → Main Power BI dashboard  
+- `Store Data.xlsx` → Dataset  
+- `sales_dashboard1.png` → Dashboard overview  
+- `sales_dashboard2.png` → Sales insights & trends  
+- `sales_dashboard3.png` → Detailed data view  
 
 ## Dashboard Preview
 
-### Dashboard View 1
+### Overview Dashboard
 ![Dashboard](sales_dashboard1.png)
 
-### Dashboard View 2
+### Sales Insights & Trends
 ![Dashboard](sales_dashboard2.png)
 
-### Dashboard View 3
+### Detailed Data & Filters
 ![Dashboard](sales_dashboard3.png)
 
 ## How to Use
 1. Download the `.pbix` file  
 2. Open it in Power BI Desktop  
-3. Explore different visuals and insights  
+3. Use filters to explore different insights  
+4. Analyze trends and product performance  
 
 ## Key Insights
-- Apple iPhone 14 is the top-performing product across sales and profit  
-- Tupperware Lunch Box shows lowest performance in multiple categories  
-- High sales do not always mean high profit  
-- Product performance varies significantly across metrics  
+- Apple iPhone 14 is a top-performing product in sales and profit  
+- Certain products show high sales but lower profit margins  
+- Discounts significantly impact revenue and profit  
+- Sales trends fluctuate over time with noticeable peaks  
+- Product performance varies across different metrics  
 
 ## Author
-**Manpreet Kaur**
-
+Manpreet Kaur
